@@ -17,7 +17,6 @@ Our development team is SSH, a project team for CSE 110 in Spring 2019. We are c
 - **Story:** The application allows you to create a user profile and start input the user's personalities. User Data is pushed to the application and processed into an easily digestible form for users.
 - **Market:** UCSD students who have trouble finding, subleasing or renting houses.
 - **Habit:** This app would ideally be used at least once a day
-- **Scope:** TODO
 
 ### Team members
 
